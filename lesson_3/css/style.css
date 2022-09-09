@@ -1,0 +1,28 @@
+.title.text {
+	color: blue;
+}
+
+.next + p{
+	color: darkorange;
+}
+
+.next .list {
+	color: aqua;
+}
+
+.tilda ~ p {
+   color: darkmagenta;
+}
+
+.green > p{
+	color: green;
+}
+
+.yellow p{
+	color: yellow;
+}
+
+.monday,
+.friday {
+	color: olive;
+}
